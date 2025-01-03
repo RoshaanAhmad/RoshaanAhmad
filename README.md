@@ -1,8 +1,8 @@
 <!-- ## Hi there 👋 -->
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" height="300" width="100%" frameborder="0" scrolling="no"  />
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" height="300" width="100%" frameborder="0" scrolling="no"  />
+</div>
 
 <h1 align="left">Hi, I'm Roshaan!</h1>
 
@@ -12,17 +12,13 @@
 
 ###
 
-<p align="left">
-  ✨ I’m currently Freelancing @Upwork and working on Open-Source Projects.
-  <br>
-  📚 I'm currently learning AWS Cloud Computing & Artificial Intelligence (AI).
-  <br>
-  🎯 Goals: Building a Creative Social Platform for Polymaths and Contributing to Open-Source Projects.
-  <br>
-  🏅 Hobbies: Reading, Linguistics, Mathematics, Chess, and Martial Arts.
-  <br>
-  📩 Email: roshaan@roshaanahmad.com
-</p>
+<div align="left">
+  <p>✨ I’m currently Freelancing @Upwork and working on Open-Source Projects.</p>
+  <p>📚 I'm currently learning AWS Cloud Computing & Artificial Intelligence (AI).</p>
+  <p>🎯 Goals: Building a Creative Social Platform for Polymaths and Contributing to Open-Source Projects.</p>
+  <p>🏅 Hobbies: Reading, Linguistics, Mathematics, Chess, and Martial Arts.</p>
+  <p>📩 Email: roshaan@roshaanahmad.com</p>
+</div>
 
 ###
 
