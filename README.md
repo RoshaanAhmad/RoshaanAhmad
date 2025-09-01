@@ -15,10 +15,10 @@
 
 <div align="left">
   <p>✨ I’m currently Freelancing @Upwork and working on Open-Source Projects.</p>
-  <p>📚 <strong>Currently Learning:</strong> Advanced <strong>AI/ML</strong> techniques & Cloud Computing.</p>
-  <p>🎯 <strong>Goals:</strong> Building a Creative Social Platform for Polymaths and Contributing to Open-Source Projects.</p>
-  <p>🏅 <strong>Hobbies:</strong> Reading, Linguistics, Quantum Physics, Mathematics, Neuroscience, Chess, and Martial Arts.</p>
-  <p>📩 <strong>Email:</strong> roshaan@roshaanahmad.com</p>
+  <p>📚 <strong>Currently Learning:</strong> Advanced <strong>AI/ML</strong> strategies & Cloud Computing.</p>
+  <p>🎯 <strong>Goals:</strong> Develop an innovative community for intellectuals/polymaths and contribute to open-source projects.</p>
+  <p>🏅 <strong>Hobbies:</strong> STEM, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
+  <p>💌 <strong>Email:</strong> roshaan@roshaanahmad.com</p>
 </div>
 
 ---
@@ -26,9 +26,9 @@
 <h2 align="left">Achievements</h2>
 
 <div align="left">
+  <p>🚀 <strong>AWS re/Start Graduate:</strong> Successfully completed the AWS re/Start program, gaining in-demand skills in cloud architecture, migration, and management.</p>
   <p>🎯 <strong>Electronics Ace:</strong> Secured a spot in a government-funded, 6-month advanced electronics program at Pakistan's top-ranked engineering university (UET).</p>
   <p>🏆 <strong>AI Talent:</strong> Won an innovative AI contest at Pakistan's leading software house, Xeven Solutions.</p>
-  <p>🚀 <strong>AWS Certified:</strong> Selected for the free AWS re/Start cloud training program.</p>
 </div>
 
 ---
