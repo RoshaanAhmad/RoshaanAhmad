@@ -14,10 +14,11 @@
 <h2 align="left">About me</h2>
 
 <div align="left">
-  <p>✨ I’m currently Freelancing @Upwork and working on Open-Source Projects.</p>
-  <p>📚 <strong>Currently Learning:</strong> Advanced <strong>AI/ML</strong> strategies & Cloud Computing.</p>
-  <p>🎯 <strong>Goals:</strong> Develop an innovative community for intellectuals/polymaths and contribute to open-source projects.</p>
-  <p>🏅 <strong>Hobbies:</strong> STEM, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
+  <p>✨ I like to define myself as a Polymath, a person who wants to know, learn, and understand everything about the cosmos.</p>
+  <p>🧑🏻‍💻 <strong>Work:</strong> Freelancing @Upwork as an <strong>AI, Machine Learning & Software Development Specialist</strong>.</p>
+  <p>📚 <strong>Learning:</strong> Advanced AI/ML strategies & Cloud Computing.</p>
+  <p>🎯 <strong>Goals:</strong> Develop a private AI-powered operating system for my personal tasks.</p>
+  <p>🏅 <strong>Hobbies:</strong> STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
   <p>💌 <strong>Email:</strong> roshaan@roshaanahmad.com</p>
 </div>
 
@@ -26,7 +27,7 @@
 <h2 align="left">Achievements</h2>
 
 <div align="left">
-  <p>🚀 <strong>AWS re/Start Graduate:</strong> Successfully completed the AWS re/Start program, gaining in-demand skills in cloud architecture, migration, and management.</p>
+  <p>🚀 <strong>AWS re/Start Graduate:</strong> Successfully completed the AWS re/Start program, acquired hands-on experience in AWS Cloud services, and developed in-demand skills in cloud architecture, migration, and management.</p>
   <p>🎯 <strong>Electronics Ace:</strong> Secured a spot in a government-funded, 6-month advanced electronics program at Pakistan's top-ranked engineering university (UET).</p>
   <p>🏆 <strong>AI Talent:</strong> Won an innovative AI contest at Pakistan's leading software house, Xeven Solutions.</p>
 </div>
@@ -52,14 +53,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" alt="keras logo" />
-  <img width="12" />
+</div>
+
+<p> </p>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo" />
