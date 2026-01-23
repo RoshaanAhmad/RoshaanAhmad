@@ -6,8 +6,8 @@
 
 <h1 align="left">Hi there, I'm Roshaan! 👋</h1>
 
-<p><strong>🧑‍💻 Full-Stack Developer | Machine Learning Engineer | Open-Source Contributor</strong></p>
-<p><strong>🚀 I'm an expert AI & Machine Learning Engineer with a keen eye for drawing useful insights from data. I thrive on developing strong, scalable AI solutions that tackle complex business challenges and achieve tangible results.</strong></p>
+<p><strong>Full-Stack Developer | Machine Learning Engineer | Open-Source Contributor</strong></p>
+<!-- <p><strong>🚀 I'm an expert AI & Machine Learning Engineer with a keen eye for drawing useful insights from data. I thrive on developing strong, scalable AI solutions that tackle complex business challenges and achieve tangible results.</strong></p> -->
 
 ---
 
@@ -15,7 +15,7 @@
 
 <div align="left">
   <p>✨ I like to define myself as a Polymath, a person who wants to know, learn, and understand everything about the cosmos.</p>
-  <p>🧑🏻‍💻 <strong>Work:</strong> Freelancing @Upwork as an <strong>AI, Machine Learning & Software Development Specialist</strong>.</p>
+  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working on TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, and MongoDB.</p>
   <p>📚 <strong>Learning:</strong> Advanced AI/ML strategies & Cloud Computing.</p>
   <p>🎯 <strong>Goals:</strong> Develop a private AI-powered operating system for my personal tasks.</p>
   <p>🏅 <strong>Hobbies:</strong> STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
@@ -78,6 +78,7 @@
 
 ---
 
+<!--
 <h2 align="left">Let's connect</h2>
 
 <div align="left">
@@ -85,6 +86,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
 </div>
+-->
 
 <!--
 **RoshaanAhmad/RoshaanAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
