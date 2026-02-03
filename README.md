@@ -14,11 +14,11 @@
 <h2 align="left">About me</h2>
 
 <div align="left">
-  <p>✨ I like to define myself as a Polymath, a person who wants to know, learn, and understand everything about the cosmos.</p>
-  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working on TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, and MongoDB.</p>
-  <p>📚 <strong>Learning:</strong> Advanced AI/ML strategies & Cloud Computing.</p>
-  <p>🎯 <strong>Goals:</strong> Develop a private AI-powered operating system for my personal tasks.</p>
-  <p>🏅 <strong>Hobbies:</strong> STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
+  <p><strong><em>∅ &nbsp I like to define myself as a Polymath, a person who wants to know, learn, and understand everything about the cosmos.</em></strong></p>
+  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working with <strong>TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, and MongoDB</strong>.</p>
+  <p>📚 <strong>Learning:</strong> Advanced <strong>AI/ML</strong> strategies and <strong>Cloud Computing</strong>.</p>
+  <p>🎯 <strong>Goals:</strong> Develop a private <strong>AI-powered operating system</strong> for personal tasks.</p>
+  <p>🏅 <strong>Hobbies:</strong> <strong>STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts</strong>.</p>
   <p>💌 <strong>Email:</strong> roshaan@roshaanahmad.com</p>
 </div>
 
@@ -37,56 +37,18 @@
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="expressjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" alt="keras logo" />
-</div>
-
-<p> </p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,py,fastapi,opencv,sklearn,pytorch,tensorflow,c,rust,matlab,aws,git,docker,bash,linux,arduino,raspberrypi&perline=12&theme=dark"/>
 </div>
 
 ---
 
-<!--
 <h2 align="left">Let's connect</h2>
 
 <div align="left">
-  <a href="https://linkedin.com/in/roshaan-ahmad">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/roshaan-ahmad/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/>
   </a>
 </div>
--->
 
 <!--
 **RoshaanAhmad/RoshaanAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
