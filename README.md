@@ -37,7 +37,7 @@
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,py,fastapi,opencv,sklearn,pytorch,tensorflow,c,rust,matlab,aws,git,docker,bash,linux,arduino,raspberrypi&perline=12&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,expressjs,nextjs,py,flask,django,fastapi,opencv,sklearn,pytorch,tensorflow,c,rust,matlab,mysql,mongodb,aws,git,docker,kubernetes,bash,linux,arduino,raspberrypi&perline=14&theme=dark"/>
 </div>
 
 ---
