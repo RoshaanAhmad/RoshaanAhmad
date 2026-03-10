@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 <div align="center">
-  <img width="602" height="343" alt="Screenshot From 2026-03-11 01-39-24" src="https://github.com/user-attachments/assets/dfb3d177-08d0-4acb-8547-e1a948095270" />
+  <img width="100" height="300" alt="Screenshot From 2026-03-11 01-39-24" src="https://github.com/user-attachments/assets/dfb3d177-08d0-4acb-8547-e1a948095270" />
 
 </div>
 
