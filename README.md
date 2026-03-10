@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" width="100%" height="300" />
 </div>
 
-<h1 align="left">Hi there, I'm Roshaan! 👋</h1>
+<h1 align="left">👋 Hi there, I'm Roshaan!</h1>
 
 <p><strong>Full-Stack Developer | Machine Learning Engineer | Open-Source Contributor</strong></p>
 <!-- <p><strong>🚀 I'm an expert AI & Machine Learning Engineer with a keen eye for drawing useful insights from data. I thrive on developing strong, scalable AI solutions that tackle complex business challenges and achieve tangible results.</strong></p> -->
@@ -15,7 +15,7 @@
 
 <div align="left">
   <p><strong><em>∅ &nbsp I like to define myself as a Polymath, a person who wants to know, learn, and understand everything about the cosmos.</em></strong></p>
-  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working with <strong>TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, and MongoDB</strong>.</p>
+  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working with <strong>TypeScript, ReactJS, NodeJS, ExpressJS, NextJS, and MongoDB</strong>.</p>
   <p>📚 <strong>Learning:</strong> Advanced <strong>AI/ML</strong> strategies and <strong>Cloud Computing</strong>.</p>
   <p>🎯 <strong>Goals:</strong> Develop a private <strong>AI-powered operating system</strong> for personal tasks.</p>
   <p>🏅 <strong>Hobbies:</strong> <strong>STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts</strong>.</p>
