@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
-
 <div align="center">
-  <img width="1000" height="350" alt="Screenshot From 2026-03-11 01-39-24" src="https://github.com/user-attachments/assets/dfb3d177-08d0-4acb-8547-e1a948095270" />
+  
+  <img width="1000" height="350" alt="New Pinterest GIF" src="https://github.com/user-attachments/assets/e5718bd4-bcdd-4c37-880c-eb9fd5a14774" />
 
 </div>
 
