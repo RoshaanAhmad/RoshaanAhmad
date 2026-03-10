@@ -1,7 +1,8 @@
 <!-- ## Hi there 👋 -->
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" width="100%" height="300" />
+  
+  <img width="1000" height="450" alt="New Pinterest GIF" src="https://github.com/user-attachments/assets/e5718bd4-bcdd-4c37-880c-eb9fd5a14774" />
+
 </div>
 
 <h1 align="left">👋 Hi there, I'm Roshaan!</h1>
