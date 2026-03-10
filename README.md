@@ -1,7 +1,8 @@
 <!-- ## Hi there 👋 -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" width="100%" height="300" />
+  <img width="602" height="343" alt="Screenshot From 2026-03-11 01-39-24" src="https://github.com/user-attachments/assets/dfb3d177-08d0-4acb-8547-e1a948095270" />
+
 </div>
 
 <h1 align="left">👋 Hi there, I'm Roshaan!</h1>
