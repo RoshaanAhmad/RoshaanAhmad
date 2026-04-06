@@ -14,12 +14,12 @@
 <h2 align="left">About me</h2>
 
 <div align="left">
-  <p><strong><em>∅ &nbsp I like to define myself as a Polymath, a person who wants to know, learn, and understand everything about the cosmos.</em></strong></p>
+  <p>∅ &nbsp I like to define myself as a <strong>Polymath</strong>, a person who wants to know, learn, and understand everything about the cosmos.</p>
   <p>🧑🏻‍💻 <strong>Work:</strong> Currently working with <strong>TypeScript, ReactJS, NodeJS, ExpressJS, NextJS, and MongoDB</strong>.</p>
-  <p>📚 <strong>Learning:</strong> Advanced <strong>AI/ML</strong> strategies and <strong>Cloud Computing</strong>.</p>
-  <p>🎯 <strong>Goals:</strong> Develop a private <strong>AI-powered operating system</strong> for personal tasks.</p>
-  <p>🏅 <strong>Hobbies:</strong> <strong>STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts</strong>.</p>
-  <p>💌 <strong>Email:</strong> roshaan@roshaanahmad.com</p>
+  <p>📚 <strong>Learning:</strong> Advanced <strong>AI/ML</strong> methodologies and <strong>Cloud Computing</strong>.</p>
+  <p>🎯 <strong>Goals:</strong> Develop a private, <strong>AI-powered operating system</strong> from scratch for personal tasks.</p>
+  <p>🏅 <strong>Hobbies:</strong> STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
+  <p>💌 <strong>Email:</strong> <a href="mailto:roshaan@roshaanahmad.com">roshaan@roshaanahmad.com</a></p>
 </div>
 
 ---
