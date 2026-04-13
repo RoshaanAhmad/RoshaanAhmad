@@ -40,7 +40,7 @@
 <ul>
   <li>Added tab note background colour for default light theme <a href="https://github.com/mozilla-firefox/firefox/commit/6fcae532ae2d">[D290018]</a></li>
   <li>Fixed typo in OpenInTabsUtils.sys.mjs — confirmOpenInTabs() function <a href="https://github.com/mozilla-firefox/firefox/commit/0a0a5196de8e">[D291855]</a></li>
-  <li>Fix splitter border lines and tab-screen corner issue in split view <a href="">[In Progress]</a></li>
+  <li>Fixed splitter border lines and tab-screen corner issue in split view <a href="https://github.com/mozilla-firefox/firefox/commit/b0c06ce109fb">[D292101]</a></li>
 </ul>
   
 ---
