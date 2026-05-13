@@ -15,7 +15,7 @@
 
 <div align="left">
   <p>∅ &nbsp I like to define myself as a <strong>Polymath</strong>, a person who wants to know, learn, and understand everything about the cosmos.</p>
-  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working with <strong>TypeScript, ReactJS, NodeJS, ExpressJS, NextJS, and MongoDB</strong>.</p>
+  <p>🧑🏻‍💻 <strong>Work:</strong> Currently working with <strong>TypeScript, ReactJS, NodeJS, ExpressJS, and NextJS</strong>.</p>
   <p>📚 <strong>Learning:</strong> Advanced <strong>AI/ML</strong> methodologies and <strong>Cloud Computing</strong>.</p>
   <p>🎯 <strong>Goals:</strong> Develop a private, <strong>AI-powered operating system</strong> from scratch for personal tasks.</p>
   <p>🏅 <strong>Hobbies:</strong> STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Martial Arts.</p>
@@ -36,7 +36,7 @@
 
 <h2 align="left">Open Source Contributions</h2>
 
-<h4><strong>Mozilla Firefox — Contributed to desktop frontend</strong></h4>
+<h4><strong>Mozilla Firefox — Contributed to Desktop Frontend</strong></h4>
 <ul>
   <li>Added tab note background colour for default light theme <a href="https://github.com/mozilla-firefox/firefox/commit/6fcae532ae2d">[D290018]</a></li>
   <li>Fixed typo in OpenInTabsUtils.sys.mjs — confirmOpenInTabs() function <a href="https://github.com/mozilla-firefox/firefox/commit/0a0a5196de8e">[D291855]</a></li>
