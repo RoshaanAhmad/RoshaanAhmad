@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
 
 <div align="center">
-  <img src="study.gif" alt="study" width="100" height="300"/>
+  <img src="study.gif" alt="study" width="100%" height="300"/>
 </div>
 
 <h1>Hi there, I’m Roshaan!</h1>
