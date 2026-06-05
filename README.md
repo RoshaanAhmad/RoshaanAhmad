@@ -55,7 +55,7 @@
 
 ---
 
-<h2>Let's connect</h2>
+<h2>Let’s connect</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/roshaan-ahmad/" target="_blank">
