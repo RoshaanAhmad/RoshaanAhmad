@@ -12,7 +12,7 @@
 
 ---
 
-<h2>About me</h2>
+<h2>About Me</h2>
 
 <div>
     <p>🔭 I like to define myself as a <strong>Polymath</strong>, a person who wants to know, learn, and understand everything about the cosmos.</p>
@@ -80,7 +80,7 @@
 
 ---
 
-<h2>Let’s connect</h2>
+<h2>Let’s Connect</h2>
 
 <div>
     <a href="https://www.linkedin.com/in/roshaan-ahmad/" target="_blank">
