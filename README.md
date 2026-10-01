@@ -16,7 +16,7 @@
 
 <div>
     <p>🔭 I like to define myself as a <strong>Polymath</strong>, a person who wants to know, learn, and understand everything about the cosmos.</p>
-    <p>🧑🏻‍💻 <strong>Working:</strong> I’m currently working with TypeScript, ReactJS, and NextJS.</p>
+    <p>🧑🏻‍💻 <strong>Working:</strong> I’m currently working with NextJS.</p>
     <p>📚 <strong>Learning:</strong> I’m currently learning advanced <strong>Machine Learning</strong> and <strong>Computer Architecture</strong>.</p>
     <p>🌱 <strong>Hobbies:</strong> STEM, Cosmology, Quantum Physics, Neuroscience, Calculus, Philosophy, Chess, and Kung-Fu.</p>
     <p>💌 <strong>Email:</strong> <a href="mailto:roshaan@roshaanahmad.com">roshaan@roshaanahmad.com</a></p>
